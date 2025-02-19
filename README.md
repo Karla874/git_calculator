@@ -1,1 +1,1 @@
-# git_calculator
+Calculadora básica.
